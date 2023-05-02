@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import { computed, reactive, ref } from "vue";
+import { computed, reactive, ref, watch, watchEffect } from "vue";
 // @ is an alias to /src
 
 export default {

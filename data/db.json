@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "title": "welcome to the blog",
+      "body": "Ut laborum ut aute irure ipsum mollit consequat amet id voluptate voluptate officia esse. Lorem ut consequat sit cillum pariatur dolore voluptate laboris sint. Qui consequat adipisicing eu cupidatat sunt tempor. Incididunt voluptate pariatur amet irure consectetur laboris adipisicing et.",
+      "id": 1,
+      "tags": ["webdev", "coding", "news"]
+    },
+    {
+      "title": "top 5 CSS tips",
+      "body": "lorem ipsum",
+      "id": 2,
+      "tags": ["css", "html"]
+    }
+  ]
+}
